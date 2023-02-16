@@ -4,6 +4,5 @@ public class Boletin17final {
         ProgramaCalculante obj = new ProgramaCalculante();
         obj.nota();
         System.out.println(obj.toString());
-        
     }
 }

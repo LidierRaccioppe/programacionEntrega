@@ -1,11 +1,11 @@
-package com.maximo.datos;
+package ejemploarrays;
 import static java.lang.Boolean.parseBoolean;
 import static java.lang.Byte.parseByte;
 import static java.lang.Integer.*;
 import static java.lang.Long.parseLong;
 import static java.lang.Short.parseShort;
 import javax.swing.JOptionPane;
-public class PedirDatos {
+public class PedirDatos_1 {
     public static String pedirString(String mensaje){
         return JOptionPane.showInputDialog(mensaje);
     }

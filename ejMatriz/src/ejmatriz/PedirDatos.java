@@ -1,4 +1,4 @@
-package com.maximo.datos;
+package ejmatriz;
 import static java.lang.Boolean.parseBoolean;
 import static java.lang.Byte.parseByte;
 import static java.lang.Integer.*;
